@@ -11,6 +11,11 @@ Meeting
 
 [Meetup](https://www.meetup.com/)
 
+Podcast
+-
+
+[PodBean](https://www.podbean.com/all)
+
 Scientific networks
 -
 [impact story](https://profiles.impactstory.org/)
