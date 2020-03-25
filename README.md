@@ -21,6 +21,8 @@ Hackathon
 
 [Hackathon.com](https://www.hackathon.com/)
 
+[Conservation X Labs](https://conservationxlabs.com/ideathon)
+
 Scientific networks
 -
 [impact story](https://profiles.impactstory.org/)
