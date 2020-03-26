@@ -11,6 +11,8 @@ Meeting
 
 [Meetup](https://www.meetup.com/)
 
+[keeplearning](https://keeplearning.umsystem.edu/support/solutions/articles/11000083770)
+
 Podcast
 -
 
