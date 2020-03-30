@@ -9,6 +9,8 @@ Online Seminar
 
 [Build-a-Cell virtual journal club](https://www.buildacell.org/journal-club)
 
+[Symbiosis seminar series on Zoom](https://docs.google.com/spreadsheets/d/1DHkn2CjRXz9QbJPcSDuibYmn6e1khhgd2xPIxXjXVMY/edit#gid=0)
+
 Meeting
 -
 [Zoom Basics](https://docs.google.com/document/d/1xdENyIV1505FDXBj7n5PaaHinGGUWc1R0ib1t7DRSCw/edit)
