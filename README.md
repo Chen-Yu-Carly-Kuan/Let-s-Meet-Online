@@ -5,6 +5,10 @@ Online Seminar
 
 [Harvard](https://www.dfhcc.harvard.edu/events/dfhcc-connecting-the-scientific-community-seminar-series/?fbclid=IwAR3Es1QgWgP-Vy1rHP5uVtgTTPCdgtx0J9cyVZPWwcaL5BeNSB4gSlEjDZI)
 
+[Global Plant Science Events](https://plantae.org/events-calendar/#calendar)
+
+[Build-a-Cell virtual journal club](https://www.buildacell.org/journal-club)
+
 Meeting
 -
 [Zoom Basics](https://docs.google.com/document/d/1xdENyIV1505FDXBj7n5PaaHinGGUWc1R0ib1t7DRSCw/edit)
