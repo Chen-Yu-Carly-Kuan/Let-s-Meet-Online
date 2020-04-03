@@ -11,6 +11,10 @@ Online Seminar
 
 [Symbiosis seminar series on Zoom](https://docs.google.com/spreadsheets/d/1DHkn2CjRXz9QbJPcSDuibYmn6e1khhgd2xPIxXjXVMY/edit#gid=0)
 
+[A step by step guide to writing a scientific paper](https://www.youtube.com/watch?v=LUmf7vEFxYI)
+
+#Virtual_Autophagy_JC
+
 Meeting
 -
 [Zoom Basics](https://docs.google.com/document/d/1xdENyIV1505FDXBj7n5PaaHinGGUWc1R0ib1t7DRSCw/edit)
