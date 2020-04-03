@@ -13,6 +13,8 @@ Online Seminar
 
 [A step by step guide to writing a scientific paper](https://www.youtube.com/watch?v=LUmf7vEFxYI)
 
+[Cornell University - "Meiosis in Quarantine" Weekly Webinar](https://www.eventbrite.com/e/cornell-university-meiosis-in-quarantine-weekly-webinar-registration-100819216992)
+
 #Virtual_Autophagy_JC
 
 Meeting
