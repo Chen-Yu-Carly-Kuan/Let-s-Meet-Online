@@ -25,10 +25,7 @@ Meeting
 
 [keeplearning](https://keeplearning.umsystem.edu/support/solutions/articles/11000083770)
 
-Podcast
--
 
-[PodBean](https://www.podbean.com/all)
 
 Hackathon
 -
