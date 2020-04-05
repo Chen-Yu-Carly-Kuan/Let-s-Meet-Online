@@ -15,6 +15,8 @@ Online Seminar
 
 [Cornell University - "Meiosis in Quarantine" Weekly Webinar](https://www.eventbrite.com/e/cornell-university-meiosis-in-quarantine-weekly-webinar-registration-100819216992)
 
+[Online chemistry calendar](https://supersciencegrl.co.uk/online)
+
 #Virtual_Autophagy_JC
 
 Meeting
