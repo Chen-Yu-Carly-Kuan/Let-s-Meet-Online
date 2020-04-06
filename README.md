@@ -17,6 +17,8 @@ Online Seminar
 
 [Online chemistry calendar](https://supersciencegrl.co.uk/online)
 
+[openplantpathology](https://openplantpathology.org/)
+
 #Virtual_Autophagy_JC
 
 Meeting
