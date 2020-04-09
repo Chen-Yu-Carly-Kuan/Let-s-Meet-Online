@@ -19,6 +19,10 @@ Online Seminar
 
 [openplantpathology](https://openplantpathology.org/)
 
+[MSKCC](https://www.mskcc.org/research/ski/education-training/sciencespotlight#card-10)
+
+[Blood and Bone Quarantine Series](https://docs.google.com/spreadsheets/d/1QU_E94D5stscXb-0gPn79r4nre9QVo3vZixiD8RrzAg/htmlview?fbclid=IwAR3gQ3P8XVnVRIAhBBW7sQvHU3gT2R-XGzRTbTPmtzJJjk5g30xRcqfOSGw)
+
 #Virtual_Autophagy_JC
 
 Meeting
